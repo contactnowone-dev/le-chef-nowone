@@ -1,0 +1,146 @@
+{
+  "nomSite": "Le Chef Nowone",
+  "slogan": "La cuisine simple, efficace et équipée",
+  "menu": [
+    {
+      "nom": "Accueil",
+      "lien": "index.html"
+    },
+    {
+      "nom": "La Découpe & Préparation",
+      "lien": "page01.html"
+    },
+    {
+      "nom": "Cuisson & Appareils",
+      "lien": "page02.html"
+    },
+    {
+      "nom": "Livres de Recettes",
+      "lien": "page03.html"
+    },
+    {
+      "nom": "Contact",
+      "lien": "contact.html"
+    },
+    {
+      "nom": "L'Envers du Décor",
+      "lien": "stack.html"
+    }
+  ],
+  "produits": {
+    "page01": [
+      {
+        "titre": "PAUDIN Couteau de Chef",
+        "prix": "29.02€",
+        "image": "https://m.media-amazon.com/images/I/71NNg-xFpgL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Zx7GOE"
+      },
+      {
+        "titre": "Sunnecko Set Couteau Cuisine Professionnel",
+        "prix": "24.90€",
+        "image": "https://m.media-amazon.com/images/I/81NyPQVCuJL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4typyWQ"
+      },
+      {
+        "titre": "Planche à découper en Bois",
+        "prix": "20.97€",
+        "image": "https://m.media-amazon.com/images/I/51gJl8apxoL._AC_SL1200_.jpg",
+        "link": "https://amzn.to/4qsXSzZ"
+      },
+      {
+        "titre": " Balance électronique",
+        "prix": "19.99€",
+        "image": "https://m.media-amazon.com/images/I/51Pz2YrUD-L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4rx9TWJ"
+      },
+      {
+        "titre": "Tablier Cuisine ",
+        "prix": "19.99€",
+        "image": "https://m.media-amazon.com/images/I/516EvOBYEuL._AC_SX679_.jpg",
+        "link": "https://amzn.to/4qBw0cV"
+      },
+      {
+        "titre": " Bols à mélanger ",
+        "prix": "32.99€",
+        "image": "https://m.media-amazon.com/images/I/61RN80Z1dxL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4cmpROn"
+      }
+    ],
+    "page02": [
+      {
+        "titre": "Philips Airfryer",
+        "prix": "319.80€",
+        "image": "https://m.media-amazon.com/images/I/51cjefTqV1L._AC_SL1080_.jpg",
+        "link": "https://amzn.to/4qys1xQ"
+      },
+      {
+        "titre": "Cocotte Tradifonte ronde en fonte",
+        "prix": "29.99€",
+        "image": "https://m.media-amazon.com/images/I/31M3bgutt6L._AC_.jpg",
+        "link": "https://amzn.to/4rLPSeA"
+      },
+      {
+        "titre": "Robot pâtissier",
+        "prix": "104.99€",
+        "image": "https://m.media-amazon.com/images/I/610cnFO05+L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4bQIs56"
+      },
+      {
+        "titre": "Thermometre Cuisine",
+        "prix": "10.99€",
+        "image": "https://m.media-amazon.com/images/I/6145yilthgL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/463B6Yg"
+      },
+      {
+        "titre": "Poêles Inox ",
+        "prix": "249.00€",
+        "image": "https://m.media-amazon.com/images/I/61t4gQneAhL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4aaY0iQ"
+      },
+      {
+        "titre": "Mixeur Plongeant",
+        "prix": "39.99€",
+        "image": "https://m.media-amazon.com/images/I/61J3UEEeS6L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/46Jy2Ra"
+      }
+    ],
+    "page03": [
+      {
+        "titre": " LA CUISINE TRADITION",
+        "prix": "19.90€",
+        "image": "https://m.media-amazon.com/images/I/518HznUrjiL.jpg",
+        "link": "https://amzn.to/4tCPQHQ"
+      },
+      {
+        "titre": "Ma cuisine au Airfryer",
+        "prix": "19.95€",
+        "image": "https://m.media-amazon.com/images/I/71KIkQGdDxL._SL1500_.jpg",
+        "link": "https://amzn.to/4s6XtET"
+      },
+      {
+        "titre": "La Pâtisserie",
+        "prix": "29.00",
+        "image": "https://m.media-amazon.com/images/I/51ted27T93S._SL1084_.jpg",
+        "link": "https://amzn.to/3MwESma"
+      },
+      {
+        "titre": "Cuisine coréenne",
+        "prix": "14.77€",
+        "image": "https://m.media-amazon.com/images/I/71UhsmB+WLL._SL1293_.jpg",
+        "link": "https://amzn.to/4as7Dsp"
+      },
+      {
+        "titre": "L'art des ramen",
+        "prix": "13.99€",
+        "image": "https://m.media-amazon.com/images/I/71XIez-ikOL._SL1499_.jpg",
+        "link": "https://amzn.to/4rR66Do"
+      },
+      {
+        "titre": "Comme chez Mamie",
+        "prix": "22.00€",
+        "image": "https://m.media-amazon.com/images/I/81GJ2-79TiL._SL1500_.jpg",
+        "link": "https://amzn.to/40bAnAF"
+      }
+    ]
+  }
+}
